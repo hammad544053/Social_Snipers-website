@@ -1,0 +1,58 @@
+@media screen {
+    max-width: 50%
+    background-color: lightblue;
+}
+header {
+    display: inline;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #ff0000;
+    height: 1;
+}
+
+
+h1{
+    text-align: center;
+}
+#ww{
+    text-align: center;
+}
+body{
+    background:rgb(252, 255, 251);
+}
+table{
+    border:
+}
+div{
+    color:white;
+    background-color: black;
+}
+#a{
+    color : black;
+    background-color: srgb(255, 98, 0);
+}
+#b{
+    color :white;
+    background-color: black;
+}
+#pic{
+    text-align: center;
+}
+#fb{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+#insta{
+    text-align: center;;
+        background-color: rgb(255, 255, 255);
+}
+#tt{
+    text-align: center;
+    background-color:white;
+}
+
+#ex{
+    color:rgb(0, 0, 0);
+    background-color: blanchedalmond;
+}
