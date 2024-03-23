@@ -3,11 +3,11 @@
     background-color: lightblue;
 }
 header {
+    background-color: aqua;
     display: inline;
-    position: fixed;
-    top: 0;
+    top: 1;
     width: 100%;
-    background-color: #ff0000;
+    
     height: 1;
 }
 
@@ -24,17 +24,10 @@ body{
 table{
     border:
 }
-div{
-    color:white;
-    background-color: black;
-}
+
 #a{
     color : black;
     background-color: srgb(255, 98, 0);
-}
-#b{
-    color :white;
-    background-color: black;
 }
 #pic{
     text-align: center;
@@ -55,4 +48,10 @@ div{
 #ex{
     color:rgb(0, 0, 0);
     background-color: blanchedalmond;
+}
+footer{
+    text-align: center;
+    height: 200px;
+    color:rgb(5, 5, 5);
+    background-color: rgb(139, 113, 98);
 }
